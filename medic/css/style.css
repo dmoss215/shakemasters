@@ -545,7 +545,8 @@ li {
 }
 
 .hero-slider {
-  height: 80vh;
+  height: 70vh;
+  /* width: 80vw; */
 }
 
 .hero-slider .slider-item {
